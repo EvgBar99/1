@@ -1,0 +1,1820 @@
+Uri: https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js
+File Name: C:\Downloaded Web Sites\orangefitness.am\ajax\libs\jquery\3.2.1\jquery.min-1.js
+Content Type: application/javascript
+
+Uri: https://orangefitness.am/
+File Name: C:\Downloaded Web Sites\orangefitness.am\index.htm
+Content Type: text/html
+
+Uri: https://orangefitness.am/about
+File Name: C:\Downloaded Web Sites\orangefitness.am\about.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/about/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\about\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blog
+File Name: C:\Downloaded Web Sites\orangefitness.am\blog.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blog/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\blog\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blog/en?page=1
+File Name: C:\Downloaded Web Sites\orangefitness.am\blog\en-1.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blog/en?page=2
+File Name: C:\Downloaded Web Sites\orangefitness.am\blog\en-2.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blog/en?page=3
+File Name: C:\Downloaded Web Sites\orangefitness.am\blog\en-4.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blog/en?page=4
+File Name: C:\Downloaded Web Sites\orangefitness.am\blog\en-3.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blog?page=1
+File Name: C:\Downloaded Web Sites\orangefitness.am\blog-1.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blog?page=2
+File Name: C:\Downloaded Web Sites\orangefitness.am\blog-2.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blog?page=3
+File Name: C:\Downloaded Web Sites\orangefitness.am\blog-4.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blog?page=4
+File Name: C:\Downloaded Web Sites\orangefitness.am\blog-3.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/141
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\141.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/141/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\141\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/249
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\249.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/249/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\249\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/445
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\445.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/445/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\445\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/463
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\463.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/463/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\463\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/466
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\466.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/466/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\466\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/473
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\473.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/473/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\473\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/474
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\474.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/474/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\474\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/475
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\475.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/475/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\475\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/477
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\477.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/477/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\477\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/481
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\481.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/481/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\481\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/484
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\484.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/484/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\484\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/486
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\486.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/486/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\486\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/489
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\489.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/489/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\489\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/494
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\494.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/494/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\494\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/503
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\503.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/503/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\503\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/512
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\512.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/512/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\512\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/514
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\514.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/514/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\514\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/519
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\519.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/519/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\519\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/642
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\642.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/blogs/642/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\blogs\642\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/build/css/app-ui.css
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\css\app-ui.css
+Content Type: text/css
+
+Uri: https://orangefitness.am/build/css/app.css
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\css\app-1.css
+Content Type: text/css
+
+Uri: https://orangefitness.am/build/css/mobile.css
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\css\mobile-1.css
+Content Type: text/css
+
+Uri: https://orangefitness.am/build/css/tablet.css
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\css\tablet-1.css
+Content Type: text/css
+
+Uri: https://orangefitness.am/build/css/top-media.css
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\css\top-media-1.css
+Content Type: text/css
+
+Uri: https://orangefitness.am/build/css/top.css
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\css\top-1.css
+Content Type: text/css
+
+Uri: https://orangefitness.am/build/fonts/Arm-Hmks-Bebas-Neue-Regular.woff
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\fonts\Arm-Hmks-Bebas-Neue-Regular.woff
+Content Type: application/font-woff
+
+Uri: https://orangefitness.am/build/fonts/FedraSansArm-Bold.woff
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\fonts\FedraSansArm-Bold.woff
+Content Type: application/font-woff
+
+Uri: https://orangefitness.am/build/fonts/FedraSansArm-Book.woff
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\fonts\FedraSansArm-Book.woff
+Content Type: application/font-woff
+
+Uri: https://orangefitness.am/build/fonts/FedraSansArm-Book.woff2
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\fonts\FedraSansArm-Book.woff2
+Content Type: 
+
+Uri: https://orangefitness.am/build/fonts/FedraSansArm-Demi.woff
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\fonts\FedraSansArm-Demi.woff
+Content Type: application/font-woff
+
+Uri: https://orangefitness.am/build/fonts/FedraSansArm-Demi.woff2
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\fonts\FedraSansArm-Demi.woff2
+Content Type: 
+
+Uri: https://orangefitness.am/build/fonts/FedraSansArm-Light.woff
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\fonts\FedraSansArm-Light.woff
+Content Type: application/font-woff
+
+Uri: https://orangefitness.am/build/fonts/FedraSansArm-Light.woff2
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\fonts\FedraSansArm-Light.woff2
+Content Type: 
+
+Uri: https://orangefitness.am/build/fonts/FedraSansArm-Medium.woff
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\fonts\FedraSansArm-Medium.woff
+Content Type: application/font-woff
+
+Uri: https://orangefitness.am/build/fonts/FedraSansArm-Medium.woff2
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\fonts\FedraSansArm-Medium.woff2
+Content Type: 
+
+Uri: https://orangefitness.am/build/icons/iconfont.css
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\icons\iconfont-1.css
+Content Type: text/css
+
+Uri: https://orangefitness.am/build/icons/iconfont.eot?78686d8efdb2cb33670bc4ad576045cf?
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\icons\iconfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://orangefitness.am/build/icons/iconfont.woff2?78686d8efdb2cb33670bc4ad576045cf
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\icons\iconfont.woff2
+Content Type: 
+
+Uri: https://orangefitness.am/build/icons/iconfont.woff?78686d8efdb2cb33670bc4ad576045cf
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\icons\iconfont.woff
+Content Type: application/font-woff
+
+Uri: https://orangefitness.am/build/img/amd.svg
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\img\amd.svg
+Content Type: image/svg+xml
+
+Uri: https://orangefitness.am/build/img/fb.svg
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\img\fb-1.svg
+Content Type: image/svg+xml
+
+Uri: https://orangefitness.am/build/img/icon/calendar-white.svg
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\img\icon\calendar-white.svg
+Content Type: image/svg+xml
+
+Uri: https://orangefitness.am/build/img/icon/checkmark.svg
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\img\icon\checkmark.svg
+Content Type: image/svg+xml
+
+Uri: https://orangefitness.am/build/img/icon/plus-white.svg
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\img\icon\plus-white.svg
+Content Type: image/svg+xml
+
+Uri: https://orangefitness.am/build/img/icon/price.svg
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\img\icon\price.svg
+Content Type: image/svg+xml
+
+Uri: https://orangefitness.am/build/img/icon/time-white.svg
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\img\icon\time-white.svg
+Content Type: image/svg+xml
+
+Uri: https://orangefitness.am/build/img/ink.svg
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\img\ink-1.svg
+Content Type: image/svg+xml
+
+Uri: https://orangefitness.am/build/img/insta.svg
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\img\insta-1.svg
+Content Type: image/svg+xml
+
+Uri: https://orangefitness.am/build/img/logo.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\img\logo-1.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/build/img/logo2.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\img\logo2-1.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/build/img/out-decore-dark.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\img\out-decore-dark.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/build/img/out-decore-left.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\img\out-decore-left.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/build/img/out-decore-right.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\img\out-decore-right.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/build/img/you.svg
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\img\you-1.svg
+Content Type: image/svg+xml
+
+Uri: https://orangefitness.am/build/img/zoom.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\img\zoom-1.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/build/js/html2canvas.js
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\js\html2canvas-1.js
+Content Type: application/javascript
+
+Uri: https://orangefitness.am/build/js/main.js
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\js\main-1.js
+Content Type: application/javascript
+
+Uri: https://orangefitness.am/build/js/plugins/jquery.fancybox.min.js
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\js\plugins\jquery.fancybox.min-1.js
+Content Type: application/javascript
+
+Uri: https://orangefitness.am/build/js/plugins/owl.carousel.min.js
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\js\plugins\owl.carousel.min-1.js
+Content Type: application/javascript
+
+Uri: https://orangefitness.am/build/js/plugins/perfect-scrollbar.min.js
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\js\plugins\perfect-scrollbar.min-1.js
+Content Type: application/javascript
+
+Uri: https://orangefitness.am/build/js/plugins/select.js
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\js\plugins\select-1.js
+Content Type: application/javascript
+
+Uri: https://orangefitness.am/build/manifest.json
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\manifest-1.json
+Content Type: application/json
+
+Uri: https://orangefitness.am/build/scss/libs/jquery.fancybox.min.css
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\scss\libs\jquery.fancybox.min-1.css
+Content Type: text/css
+
+Uri: https://orangefitness.am/build/scss/libs/owl.carousel.min.css
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\scss\libs\owl.carousel.min-1.css
+Content Type: text/css
+
+Uri: https://orangefitness.am/build/scss/libs/perfect-scrollbar.css
+File Name: C:\Downloaded Web Sites\orangefitness.am\build\scss\libs\perfect-scrollbar-1.css
+Content Type: text/css
+
+Uri: https://orangefitness.am/cafe
+File Name: C:\Downloaded Web Sites\orangefitness.am\cafe.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/cafe/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\cafe\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/careers
+File Name: C:\Downloaded Web Sites\orangefitness.am\careers.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/careers/506
+File Name: C:\Downloaded Web Sites\orangefitness.am\careers\506.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/careers/506/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\careers\506\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/careers/513
+File Name: C:\Downloaded Web Sites\orangefitness.am\careers\513.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/careers/513/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\careers\513\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/careers/82
+File Name: C:\Downloaded Web Sites\orangefitness.am\careers\82.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/careers/82/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\careers\82\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/careers/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\careers\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/careers/en?id=75
+File Name: C:\Downloaded Web Sites\orangefitness.am\careers\en-1.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/careers?id=75
+File Name: C:\Downloaded Web Sites\orangefitness.am\careers-1.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/classes
+File Name: C:\Downloaded Web Sites\orangefitness.am\classes.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/classes/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\classes\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/contact
+File Name: C:\Downloaded Web Sites\orangefitness.am\contact.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/contact/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\contact\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\en-1.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/event/441
+File Name: C:\Downloaded Web Sites\orangefitness.am\event\441.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/event/441/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\event\441\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/events
+File Name: C:\Downloaded Web Sites\orangefitness.am\events.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/events/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\events\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/faq
+File Name: C:\Downloaded Web Sites\orangefitness.am\faq.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/faq/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\faq\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/favicon.ico
+File Name: C:\Downloaded Web Sites\orangefitness.am\favicon-1.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://orangefitness.am/fitness
+File Name: C:\Downloaded Web Sites\orangefitness.am\fitness.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/fitness/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\fitness\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/gallery/19
+File Name: C:\Downloaded Web Sites\orangefitness.am\gallery\19.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/gallery/19/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\gallery\19\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/gallery/19/en?page=1
+File Name: C:\Downloaded Web Sites\orangefitness.am\gallery\19\en-1.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/gallery/19/en?page=2
+File Name: C:\Downloaded Web Sites\orangefitness.am\gallery\19\en-2.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/gallery/19?page=1
+File Name: C:\Downloaded Web Sites\orangefitness.am\gallery\19-1.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/gallery/19?page=2
+File Name: C:\Downloaded Web Sites\orangefitness.am\gallery\19-2.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/gallery/26
+File Name: C:\Downloaded Web Sites\orangefitness.am\gallery\26.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/gallery/26/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\gallery\26\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/gallery/32
+File Name: C:\Downloaded Web Sites\orangefitness.am\gallery\32.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/gallery/32/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\gallery\32\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/gallery/events/441
+File Name: C:\Downloaded Web Sites\orangefitness.am\gallery\events\441.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/gallery/events/441/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\gallery\events\441\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/gallery/events/441/en?page=1
+File Name: C:\Downloaded Web Sites\orangefitness.am\gallery\events\441\en-1.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/gallery/events/441/en?page=2
+File Name: C:\Downloaded Web Sites\orangefitness.am\gallery\events\441\en-2.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/gallery/events/441?page=1
+File Name: C:\Downloaded Web Sites\orangefitness.am\gallery\events\441-1.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/gallery/events/441?page=2
+File Name: C:\Downloaded Web Sites\orangefitness.am\gallery\events\441-2.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/media/2018/08/297.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2018\08\297.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/2018/08/298.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2018\08\298.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/2018/08/300.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2018\08\300.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/2018/08/301.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2018\08\301.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/2018/08/303.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2018\08\303.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/2020/01/571.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2020\01\571.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/2020/01/572.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2020\01\572.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/2020/01/574.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2020\01\574.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/2020/01/575.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2020\01\575.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/2020/01/583.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2020\01\583.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/2020/01/584.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2020\01\584.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/2020/01/590.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2020\01\590.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/2020/01/593.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2020\01\593.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/2020/01/596.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2020\01\596.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/2020/01/609.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2020\01\609.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/2020/01/611.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2020\01\611.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/2021/04/654.jpeg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2021\04\654.jpeg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/2021/05/663.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2021\05\663.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/2021/05/665.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2021\05\665.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/2021/05/669.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2021\05\669.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/2021/05/670.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2021\05\670.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/2021/05/676.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2021\05\676.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/2021/05/677.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2021\05\677.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/2021/05/681.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2021\05\681.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/2021/11/MENU-ARM2021-PRINT-small_710.pdf
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2021\11\MENU-ARM2021-PRINT-small_710.pdf
+Content Type: application/pdf
+
+Uri: https://orangefitness.am/media/2021/11/MENU-ENG2021-PRINT-small_711.pdf
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2021\11\MENU-ENG2021-PRINT-small_711.pdf
+Content Type: application/pdf
+
+Uri: https://orangefitness.am/media/2022/01/716.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2022\01\716.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/2022/01/718.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2022\01\718.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/2022/04/spa-pricelist_724.pdf
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\2022\04\spa-pricelist_724.pdf
+Content Type: application/pdf
+
+Uri: https://orangefitness.am/media/cache/blog_image/media/2020/08/622.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\blog_image\media\2020\08\622.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/extra_large_cover_image/media/2018/08/264.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\extra_large_cover_image\media\2018\08\264.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/extra_large_cover_image/media/2018/10/419.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\extra_large_cover_image\media\2018\10\419.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/cache/extra_large_cover_image/media/2018/10/432.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\extra_large_cover_image\media\2018\10\432.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/extra_large_cover_image/media/2018/10/439.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\extra_large_cover_image\media\2018\10\439.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/extra_large_cover_image/media/2018/10/449.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\extra_large_cover_image\media\2018\10\449.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/extra_large_cover_image/media/2018/10/452.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\extra_large_cover_image\media\2018\10\452.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/extra_large_cover_image/media/2018/11/457.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\extra_large_cover_image\media\2018\11\457.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/extra_large_cover_image/media/2018/11/459.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\extra_large_cover_image\media\2018\11\459.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/extra_large_cover_image/media/2018/11/461.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\extra_large_cover_image\media\2018\11\461.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/extra_large_cover_image/media/2018/11/463.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\extra_large_cover_image\media\2018\11\463.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/extra_large_cover_image/media/2018/12/467.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\extra_large_cover_image\media\2018\12\467.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/extra_large_cover_image/media/2018/12/468.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\extra_large_cover_image\media\2018\12\468.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/extra_large_cover_image/media/2019/02/475.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\extra_large_cover_image\media\2019\02\475.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/extra_large_cover_image/media/2019/04/478.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\extra_large_cover_image\media\2019\04\478.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/cache/extra_large_cover_image/media/2019/05/479.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\extra_large_cover_image\media\2019\05\479.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/extra_large_cover_image/media/2019/06/480.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\extra_large_cover_image\media\2019\06\480.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/extra_large_cover_image/media/2019/07/527.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\extra_large_cover_image\media\2019\07\527.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/extra_large_cover_image/media/2019/08/538.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\extra_large_cover_image\media\2019\08\538.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/cache/extra_large_cover_image/media/2019/08/553.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\extra_large_cover_image\media\2019\08\553.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/extra_large_cover_image/media/2019/09/569.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\extra_large_cover_image\media\2019\09\569.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/extra_large_cover_image/media/2020/08/622.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\extra_large_cover_image\media\2020\08\622.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/extra_large_cover_image/media/2020/12/635.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\extra_large_cover_image\media\2020\12\635.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/100.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\100.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/101.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\101.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/122.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\122.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/127.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\127.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/138.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\138.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/139.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\139.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/169.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\169.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/170.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\170.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/171.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\171.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/173.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\173.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/174.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\174.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/175.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\175.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/176.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\176.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/177.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\177.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/178.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\178.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/179.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\179.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/180.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\180.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/182.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\182.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/189.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\189.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/190.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\190.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/191.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\191.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/192.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\192.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/193.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\193-1.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/195.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\195.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/196.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\196.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/197.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\197.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/219.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\219.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/220.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\220.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/225.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\225.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/226.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\226.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/229.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\229.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/230.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\230.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/234.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\234.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/264.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\264.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/268.jpeg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\268.jpeg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/279.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\279.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/280.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\280.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/282.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\282.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/285.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\285.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/294.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\294.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/316.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\316.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/318.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\318.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/319.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\319.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/321.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\321.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/322.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\322.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/323.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\323.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/324.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\324.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/325.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\325.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/326.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\326.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/79.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\79-1.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/80.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\80.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/82.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\82.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/83.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\83.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/85.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\85.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/08/98.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\08\98.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/09/343.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\09\343.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/09/345.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\09\345.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/09/346.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\09\346.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/09/347.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\09\347.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/09/348.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\09\348.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/09/409.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\09\409.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/10/420.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\10\420.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/10/421.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\10\421.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/10/422.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\10\422.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/10/423.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\10\423.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/10/424.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\10\424.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/10/425.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\10\425.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/10/426.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\10\426.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/10/427.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\10\427.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/10/428.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\10\428.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/10/429.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\10\429.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/10/430.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\10\430.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/10/432.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\10\432.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/10/439.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\10\439.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/10/443.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\10\443.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/10/448.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\10\448.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/10/449.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\10\449.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/10/452.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\10\452.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/11/457.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\11\457.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/11/459.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\11\459.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/11/461.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\11\461.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/11/463.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\11\463.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/12/467.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\12\467.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2018/12/468.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2018\12\468.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2019/02/475.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2019\02\475.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2019/04/476.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2019\04\476.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2019/04/478.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2019\04\478.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2019/05/479.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2019\05\479.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2019/06/480.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2019\06\480.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2019/07/527.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2019\07\527.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2019/08/553.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2019\08\553.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2019/09/569.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2019\09\569.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2020/08/622.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2020\08\622.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2020/12/635.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2020\12\635.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2021/03/644.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2021\03\644.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2021/03/645.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2021\03\645.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2021/03/647.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2021\03\647.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2021/03/648.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2021\03\648.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2021/03/649.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2021\03\649.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2021/06/682.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2021\06\682.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2021/06/690.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2021\06\690.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2021/06/691.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2021\06\691.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2021/06/692.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2021\06\692.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2021/06/693.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2021\06\693.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2021/06/694.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2021\06\694.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2022/09/729.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2022\09\729.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2022/09/730.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2022\09\730.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2022/09/731.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2022\09\731.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2022/09/732.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2022\09\732.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2022/09/733.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2022\09\733.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2022/09/734.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2022\09\734.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2022/09/735.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2022\09\735.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery/media/2022/09/736.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery\media\2022\09\736-1.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/100.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\100.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/101.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\101.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/170.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\170.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/171.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\171.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/173.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\173.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/174.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\174.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/175.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\175.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/176.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\176.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/177.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\177.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/178.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\178.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/179.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\179.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/180.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\180.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/182.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\182.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/189.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\189.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/190.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\190.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/191.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\191.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/192.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\192.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/193.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\193.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/229.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\229.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/230.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\230.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/234.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\234.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/285.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\285.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/79.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\79.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/08/98.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\08\98.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/10/420.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\10\420.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/10/421.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\10\421.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/10/422.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\10\422.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/10/423.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\10\423.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/10/424.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\10\424.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/10/425.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\10\425.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/10/426.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\10\426.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/10/427.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\10\427.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/10/428.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\10\428.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/10/429.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\10\429.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2018/10/430.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2018\10\430.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2022/09/730.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2022\09\730.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2022/09/731.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2022\09\731.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2022/09/732.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2022\09\732.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2022/09/733.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2022\09\733.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2022/09/734.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2022\09\734.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2022/09/735.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2022\09\735.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/gallery_open/media/2022/09/736.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\gallery_open\media\2022\09\736.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/icon60/media/2018/08/244.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\icon60\media\2018\08\244.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/icon60/media/2018/08/246.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\icon60\media\2018\08\246.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/icon60/media/2018/08/73.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\icon60\media\2018\08\73.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/icon60/media/2018/12/465.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\icon60\media\2018\12\465.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/icon60/media/2020/11/628.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\icon60\media\2020\11\628.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/icon60/media/2020/11/629.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\icon60\media\2020\11\629.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/icon60/media/2020/11/633.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\icon60\media\2020\11\633.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/icon60/media/2021/10/706.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\icon60\media\2021\10\706.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/large_cover_image/media/2018/09/350.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\large_cover_image\media\2018\09\350.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/large_cover_image/media/2018/09/367.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\large_cover_image\media\2018\09\367.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/cache/large_cover_image/media/2018/09/417.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\large_cover_image\media\2018\09\417.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/large_cover_image/media/2018/10/419.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\large_cover_image\media\2018\10\419.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/cache/large_cover_image/media/2019/08/543.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\large_cover_image\media\2019\08\543.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/large_cover_image/media/2021/06/682.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\large_cover_image\media\2021\06\682.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/large_cover_image/media/2022/09/729.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\large_cover_image\media\2022\09\729.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/large_cover_image/media/2022/09/734.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\large_cover_image\media\2022\09\734.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/medium_cover_image/media/2018/09/336.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\medium_cover_image\media\2018\09\336.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/medium_cover_image/media/2018/09/337.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\medium_cover_image\media\2018\09\337.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/medium_cover_image/media/2018/09/404.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\medium_cover_image\media\2018\09\404.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/news_events/media/2018/10/419.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\news_events\media\2018\10\419.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/cache/slider/media/2019/09/568.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\slider\media\2019\09\568-1.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/slider/media/2020/12/639.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\slider\media\2020\12\639-1.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/slider/media/2021/05/679.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\slider\media\2021\05\679-1.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/slider/media/2022/09/737.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\slider\media\2022\09\737-1.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/small_cover_image/media/2018/08/207.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\small_cover_image\media\2018\08\207.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/small_cover_image/media/2018/08/289.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\small_cover_image\media\2018\08\289.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/small_cover_image/media/2018/09/333.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\small_cover_image\media\2018\09\333.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/small_cover_image/media/2018/09/340.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\small_cover_image\media\2018\09\340.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/small_cover_image/media/2021/04/653.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\small_cover_image\media\2021\04\653.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/cache/small_cover_image/media/2021/04/654.jpeg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\small_cover_image\media\2021\04\654.jpeg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/small_cover_image/media/2021/05/663.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\small_cover_image\media\2021\05\663.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/small_cover_image/media/2021/05/665.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\small_cover_image\media\2021\05\665.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/small_cover_image/media/2021/05/669.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\small_cover_image\media\2021\05\669.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/small_cover_image/media/2021/05/670.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\small_cover_image\media\2021\05\670.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/small_cover_image/media/2021/05/671.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\small_cover_image\media\2021\05\671.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/cache/small_cover_image/media/2021/05/672.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\small_cover_image\media\2021\05\672.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/cache/small_cover_image/media/2021/05/673.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\small_cover_image\media\2021\05\673.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/cache/small_cover_image/media/2021/05/674.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\small_cover_image\media\2021\05\674.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/cache/small_cover_image/media/2021/05/675.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\small_cover_image\media\2021\05\675.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/media/cache/small_cover_image/media/2021/05/676.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\small_cover_image\media\2021\05\676.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/small_cover_image/media/2021/05/677.jpg
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\small_cover_image\media\2021\05\677.jpg
+Content Type: image/jpeg
+
+Uri: https://orangefitness.am/media/cache/small_cover_image/media/2021/05/680.png
+File Name: C:\Downloaded Web Sites\orangefitness.am\media\cache\small_cover_image\media\2021\05\680.png
+Content Type: image/png
+
+Uri: https://orangefitness.am/membership
+File Name: C:\Downloaded Web Sites\orangefitness.am\membership.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/membership/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\membership\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/news
+File Name: C:\Downloaded Web Sites\orangefitness.am\news.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/news/517
+File Name: C:\Downloaded Web Sites\orangefitness.am\news\517.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/news/517/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\news\517\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/news/627
+File Name: C:\Downloaded Web Sites\orangefitness.am\news\627.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/news/627/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\news\627\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/news/665
+File Name: C:\Downloaded Web Sites\orangefitness.am\news\665.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/news/665/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\news\665\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/news/703
+File Name: C:\Downloaded Web Sites\orangefitness.am\news\703.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/news/703/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\news\703\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/news/72
+File Name: C:\Downloaded Web Sites\orangefitness.am\news\72.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/news/72/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\news\72\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/news/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\news\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/product/728
+File Name: C:\Downloaded Web Sites\orangefitness.am\product\728.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/product/728/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\product\728\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/product/738
+File Name: C:\Downloaded Web Sites\orangefitness.am\product\738.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/product/738/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\product\738\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/product/740
+File Name: C:\Downloaded Web Sites\orangefitness.am\product\740.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/product/740/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\product\740\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/product/748
+File Name: C:\Downloaded Web Sites\orangefitness.am\product\748.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/product/748/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\product\748\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/product/749
+File Name: C:\Downloaded Web Sites\orangefitness.am\product\749.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/product/749/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\product\749\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/product/750
+File Name: C:\Downloaded Web Sites\orangefitness.am\product\750.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/product/750/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\product\750\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/product/751
+File Name: C:\Downloaded Web Sites\orangefitness.am\product\751.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/product/751/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\product\751\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/products
+File Name: C:\Downloaded Web Sites\orangefitness.am\products.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/products/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\products\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/regulation
+File Name: C:\Downloaded Web Sites\orangefitness.am\regulation.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/regulation/hy
+File Name: C:\Downloaded Web Sites\orangefitness.am\regulation\hy.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/spa
+File Name: C:\Downloaded Web Sites\orangefitness.am\spa.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/spa/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\spa\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/timetable
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/timetable/en
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable\en.html
+Content Type: text/html
+
+Uri: https://orangefitness.am/timetable_react/static/css/main.e7cae27f.css
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\css\main.e7cae27f.css
+Content Type: text/css
+
+Uri: https://orangefitness.am/timetable_react/static/js/main.6a6b76f1.js
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\js\main.6a6b76f1.js
+Content Type: application/javascript
+
+Uri: https://orangefitness.am/timetable_react/static/media/FedraSansArm-Bold.13f427c6.woff2
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\FedraSansArm-Bold.13f427c6.woff2
+Content Type: 
+
+Uri: https://orangefitness.am/timetable_react/static/media/FedraSansArm-Bold.b74c75e6.woff
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\FedraSansArm-Bold.b74c75e6.woff
+Content Type: application/font-woff
+
+Uri: https://orangefitness.am/timetable_react/static/media/FedraSansArm-BoldItalic.27da88ab.woff
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\FedraSansArm-BoldItalic.27da88ab.woff
+Content Type: application/font-woff
+
+Uri: https://orangefitness.am/timetable_react/static/media/FedraSansArm-BoldItalic.648e792f.woff2
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\FedraSansArm-BoldItalic.648e792f.woff2
+Content Type: 
+
+Uri: https://orangefitness.am/timetable_react/static/media/FedraSansArm-Book.06a8ff78.woff
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\FedraSansArm-Book.06a8ff78.woff
+Content Type: application/font-woff
+
+Uri: https://orangefitness.am/timetable_react/static/media/FedraSansArm-Book.306b15cf.woff2
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\FedraSansArm-Book.306b15cf.woff2
+Content Type: 
+
+Uri: https://orangefitness.am/timetable_react/static/media/FedraSansArm-BookItalic.dcc81c05.woff2
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\FedraSansArm-BookItalic.dcc81c05.woff2
+Content Type: 
+
+Uri: https://orangefitness.am/timetable_react/static/media/FedraSansArm-BookItalic.f54faf35.woff
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\FedraSansArm-BookItalic.f54faf35.woff
+Content Type: application/font-woff
+
+Uri: https://orangefitness.am/timetable_react/static/media/FedraSansArm-Demi.8c4aba53.woff2
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\FedraSansArm-Demi.8c4aba53.woff2
+Content Type: 
+
+Uri: https://orangefitness.am/timetable_react/static/media/FedraSansArm-Demi.b36feb8f.woff
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\FedraSansArm-Demi.b36feb8f.woff
+Content Type: application/font-woff
+
+Uri: https://orangefitness.am/timetable_react/static/media/FedraSansArm-DemiItalic.c24dae07.woff2
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\FedraSansArm-DemiItalic.c24dae07.woff2
+Content Type: 
+
+Uri: https://orangefitness.am/timetable_react/static/media/FedraSansArm-DemiItalic.f0215868.woff
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\FedraSansArm-DemiItalic.f0215868.woff
+Content Type: application/font-woff
+
+Uri: https://orangefitness.am/timetable_react/static/media/FedraSansArm-Light.4adb253b.woff
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\FedraSansArm-Light.4adb253b.woff
+Content Type: application/font-woff
+
+Uri: https://orangefitness.am/timetable_react/static/media/FedraSansArm-Light.532cbfcf.woff2
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\FedraSansArm-Light.532cbfcf.woff2
+Content Type: 
+
+Uri: https://orangefitness.am/timetable_react/static/media/FedraSansArm-LightItalic.82891497.woff2
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\FedraSansArm-LightItalic.82891497.woff2
+Content Type: 
+
+Uri: https://orangefitness.am/timetable_react/static/media/FedraSansArm-LightItalic.ce5d394a.woff
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\FedraSansArm-LightItalic.ce5d394a.woff
+Content Type: application/font-woff
+
+Uri: https://orangefitness.am/timetable_react/static/media/FedraSansArm-Medium.1f0927d7.woff
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\FedraSansArm-Medium.1f0927d7.woff
+Content Type: application/font-woff
+
+Uri: https://orangefitness.am/timetable_react/static/media/FedraSansArm-Medium.9a33237c.woff2
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\FedraSansArm-Medium.9a33237c.woff2
+Content Type: 
+
+Uri: https://orangefitness.am/timetable_react/static/media/FedraSansArm-MediumItalic.0bdc55e5.woff2
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\FedraSansArm-MediumItalic.0bdc55e5.woff2
+Content Type: 
+
+Uri: https://orangefitness.am/timetable_react/static/media/FedraSansArm-MediumItalic.4270033c.woff
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\FedraSansArm-MediumItalic.4270033c.woff
+Content Type: application/font-woff
+
+Uri: https://orangefitness.am/timetable_react/static/media/iconfont.36c145e4.woff
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\iconfont.36c145e4.woff
+Content Type: application/font-woff
+
+Uri: https://orangefitness.am/timetable_react/static/media/iconfont.bb557e61.woff2
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\iconfont.bb557e61.woff2
+Content Type: 
+
+Uri: https://orangefitness.am/timetable_react/static/media/iconfont.f0e4c2af.eot?
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\iconfont.f0e4c2af.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://orangefitness.am/timetable_react/static/media/Roboto-Regular.0cc7d69c.woff
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\Roboto-Regular.0cc7d69c.woff
+Content Type: application/font-woff
+
+Uri: https://orangefitness.am/timetable_react/static/media/Roboto-Regular.2c63c9af.woff2
+File Name: C:\Downloaded Web Sites\orangefitness.am\timetable_react\static\media\Roboto-Regular.2c63c9af.woff2
+Content Type: 
+
+Uri: https://platform-api.sharethis.com/js/sharethis.js
+File Name: C:\Downloaded Web Sites\orangefitness.am\js\sharethis-1.js
+Content Type: text/javascript
+
+Uri: https://www.facebook.com/tr?id=1021712328581450&ev=PageView&noscript=1
+File Name: C:\Downloaded Web Sites\orangefitness.am\tr-1
+Content Type: text/plain
+
+Uri: https://www.googletagmanager.com/gtag/js?id=AW-770806390
+File Name: C:\Downloaded Web Sites\orangefitness.am\gtag\js-1
+Content Type: application/javascript
+

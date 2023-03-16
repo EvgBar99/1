@@ -1,0 +1,135 @@
+@font-face {
+	font-family: "iconfont";
+	src: url("iconfont.eot") format("embedded-opentype"),
+url("iconfont.woff2") format("woff2"),
+url("iconfont.woff") format("woff");
+}
+
+.icon {
+	line-height: 1;
+}
+
+.icon:before {
+	font-family: iconfont !important;
+	font-style: normal;
+	font-weight: normal !important;
+	vertical-align: top;
+}
+
+.icon-aroow-down:before {
+	content: "\f101";
+}
+.icon-arrow-right:before {
+	content: "\f102";
+}
+.icon-cart:before {
+	content: "\f103";
+}
+.icon-close:before {
+	content: "\f104";
+}
+.icon-date1:before {
+	content: "\f105";
+}
+.icon-date-minus:before {
+	content: "\f106";
+}
+.icon-date-plus:before {
+	content: "\f107";
+}
+.icon-fasts:before {
+	content: "\f108";
+}
+.icon-fb:before {
+	content: "\f109";
+}
+.icon-hz:before {
+	content: "\f10a";
+}
+.icon-in:before {
+	content: "\f10b";
+}
+.icon-ink:before {
+	content: "\f10c";
+}
+.icon-insta:before {
+	content: "\f10d";
+}
+.icon-leng:before {
+	content: "\f10e";
+}
+.icon-link:before {
+	content: "\f10f";
+}
+.icon-login:before {
+	content: "\f110";
+}
+.icon-loock:before {
+	content: "\f111";
+}
+.icon-mail:before {
+	content: "\f112";
+}
+.icon-mail2:before {
+	content: "\f113";
+}
+.icon-okey:before {
+	content: "\f114";
+}
+.icon-out:before {
+	content: "\f115";
+}
+.icon-pdf:before {
+	content: "\f116";
+}
+.icon-phone:before {
+	content: "\f117";
+}
+.icon-play:before {
+	content: "\f118";
+}
+.icon-quation:before {
+	content: "\f119";
+}
+.icon-send:before {
+	content: "\f11a";
+}
+.icon-seyf:before {
+	content: "\f11b";
+}
+.icon-shair:before {
+	content: "\f11c";
+}
+.icon-time:before {
+	content: "\f11d";
+}
+.icon-unloovk:before {
+	content: "\f11e";
+}
+.icon-whotch:before {
+	content: "\f11f";
+}
+.icon-you:before {
+	content: "\f120";
+}
+.icon-calendar:before {
+	content: "\f121";
+}
+.icon-visit:before {
+	content: "\f122";
+}
+.icon-searching:before {
+	content: "\f123";
+}
+.icon-camera:before {
+	content: "\f124";
+}
+.icon-apply:before {
+	content: "\f125";
+}
+.icon-cv:before {
+	content: "\f126";
+}
+.icon-person:before {
+	content: "\f127";
+}
